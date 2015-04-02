@@ -1,0 +1,5 @@
+check cutoffdatatype
+check port folio(joptionpane),date
+check statuspage size
+check college status page
+check availability
